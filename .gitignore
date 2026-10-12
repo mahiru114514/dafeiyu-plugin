@@ -1,0 +1,17 @@
+.harness-reference/
+node_modules/
+tmp/
+lib/
+*.tgz
+*.sha256
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+docs/*
+!docs/compatibility.md
+!docs/troubleshooting.md
+!docs/preview-tools-restored-v0102.png
+assets/pet-states.png
+assets/PROMPT.md
